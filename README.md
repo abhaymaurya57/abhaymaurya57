@@ -16,6 +16,7 @@
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20190129/wye/kisspng-mysql-logo-database-microsoft-sql-server-mysql-logo-png-1713906091619.webp" alt="SQL" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="40" height="40"/> </a>
   <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/403817624/3d10f761-1027-4d0a-9906-48361e466d87" alt="DSA" width="40" height="40"/> </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="PANDAS" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaymaurya57&show_icons=true&locale=en&layout=compact" alt="abhaymaurya57" /></p>
