@@ -22,7 +22,13 @@
       <a href="https://jinja.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jinja_software_logo.svg/1200px-Jinja_software_logo.svg.png" alt=jinja2" width="80" height="40"/> </a>
 
 
-</p>
-<img align="" src="https://github-readme-stats.vercel.app/api?username=abhaymaurya57&show_icons=true&locale=en" alt="abhaymaurya57" hight="200px" width="300px"/>
-<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=abhaymaurya57&" alt="abhaymaurya57" hight="200px" width="300px"/></p>
-<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhaymaurya57&show_icons=true&locale=en&layout=compact" alt="abhaymaurya57"  hight="200px" width="300px"/>
+![](https://nirzak-streak-stats.vercel.app/?user=abhaymaurya57&theme=dark&hide_border=false)<br/>
+
+
+![](https://github-readme-stats.vercel.app/api?username=abhaymaurya57&show_icons=true&theme=radical)
+
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaymaurya57&layout=pie)]
+
+---
+[![](https://visitcount.itsvg.in/api?id=abhaymaurya57&icon=0&color=0)](https://visitcount.itsvg.in)
+
