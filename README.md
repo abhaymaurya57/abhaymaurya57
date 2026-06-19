@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhay%20Kumar%20Maurya&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Python%20%26%20Django%20%7C%20DRF%20%7C%20FastAPI%20%7C%20DSA&descAlignY=55&descSize=16" />
@@ -76,6 +78,13 @@ class AbhayKumarMaurya:
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ---
 
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/abhmrya?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/abhmrya/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/abhmrya/)
+
+</div>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
